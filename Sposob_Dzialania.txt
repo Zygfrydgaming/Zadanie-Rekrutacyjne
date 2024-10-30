@@ -1,0 +1,7 @@
+Najpierw użyłem biblioteki fstream, aby otworzyć plik i wczytać jego dane. Do przechowania danych użyłem szeregów i wypełniłem je danymi za
+pomocą pętli for. Potem obliczyłem średnie arytmetyczne współrzędnych x i y wszystkich punktów, aby użyć ich jako środek układu w którym
+znajdują się punkty. Następnie obliczyłem odległość wszystkich punktów od środka układu i zapisałem je w szeregu, który potem posortowałem
+malejąco wraz z szeregami współrzędnych. Na koniec zakładałem, że są 3 punkty graniczne porównywałem odległość środka odcinka między
+kolejnymi dwoma punktami granicznymi a środkiem układu i odległość pozostałych punktów od środka układu. Jeżeli odległość jakiegoś punktu od
+środka układu przywyższała odległość środka odcinka między kolejnymi dwoma punktami granicznymi a środkiem układu, to zakładałem, że
+wierzchołków jest o 1 więcej i tak dopóki nie skończy się pętla.
