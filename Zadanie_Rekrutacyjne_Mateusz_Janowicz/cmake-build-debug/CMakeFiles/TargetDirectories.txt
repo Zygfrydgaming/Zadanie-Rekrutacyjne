@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/Zadanie_Rekrutacyjne_Mateusz_Janowicz/cmake-build-debug/CMakeFiles/Zadanie_Rekrutacyjne_Mateusz_Janowicz.dir
+C:/Users/User/CLionProjects/Zadanie_Rekrutacyjne_Mateusz_Janowicz/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/Zadanie_Rekrutacyjne_Mateusz_Janowicz/cmake-build-debug/CMakeFiles/rebuild_cache.dir
